@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Ideias de Receitas</title>
+</head>
+<body>
+  <h1>Ideias de Receitas</h1>
+
+  <p>Seja bem-vindo(a) ao <strong>Ideias de Receitas</strong>, um portal dedicado a trazer inspiração culinária para o seu dia a dia.</p>
+
+  <p>Aqui você encontra receitas fáceis, práticas e deliciosas para todas as ocasiões: café da manhã, almoço, jantar, sobremesas, lanches e muito mais. Nosso objetivo é ajudar você a descobrir novos sabores e variar o cardápio com criatividade e simplicidade.</p>
+
+  <p>Estamos sempre atualizando o site com novas receitas e dicas de cozinha. Clique no link abaixo e aproveite!</p>
+
+  <p>
+    <a href="https://ideiasdereceitas.com.br/" target="_blank" rel="noopener">
+      👉 Acessar agora o site Ideias de Receitas
+    </a>
+  </p>
+</body>
+</html>
